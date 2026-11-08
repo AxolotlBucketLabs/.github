@@ -1,6 +1,6 @@
 # AxolotlBucketLabs
 
-AxolotlBucketLabs is an open-source organization focused on Axolotl-PM and PocketMine-MP.
+AxolotlBucketLabs is an open-source organization focused on [Axolotl-PM](https://github.com/axolotl-pm/PocketMine-MP).
 
 We maintain practical server software, reusable PHP libraries, development tooling, and release workflows for the Bedrock server ecosystem. We also help keep useful existing projects compatible with current platforms while preserving their licenses, attribution, and established behavior.
 
